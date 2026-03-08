@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "LibSpace project files"
+git branch -M main
+git remote add origin https://github.com/samira937/libspace-project.git
+git push -u origin main

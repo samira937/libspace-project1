@@ -1,0 +1,16 @@
+{
+  "name": "libspace",
+  "version": "1.0.0",
+  "description": "Library management backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.22.1"
+  },
+  "keywords": [],
+  "type": "commonjs"
+}
